@@ -1,6 +1,6 @@
 {
   "name": "bolt",
-  "description": "An AI Agent",
+  "description": "AI-powered full-stack web development in the browser. Prompt, run, edit, and deploy web applications using multiple LLM providers including OpenAI, Anthropic, Google, and 16+ others.",
   "private": true,
   "license": "MIT",
   "sideEffects": false,
